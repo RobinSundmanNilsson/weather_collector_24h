@@ -73,6 +73,20 @@ You'll be prompted to choose which forecast to fetch or view, and enter your des
 
 ---
 
+### 🌍 Setting Your Location
+
+When running the program, you’ll be prompted to enter your **latitude** and **longitude**.
+Make sure to input coordinates for the location you’d like to get the weather forecast for.
+
+If you press Enter without entering any coordinates, the program will use the default location:
+
+> **Default Location:**  
+> 📍 *Liljeholmstorgets Galleria, Stockholm, Sweden*  
+> **Latitude:** `59.3084`  
+> **Longitude:** `18.0215`
+
+---
+
 ## 👤 Intended For
 
 This tool is perfect for users who want a quick, automated way to:
